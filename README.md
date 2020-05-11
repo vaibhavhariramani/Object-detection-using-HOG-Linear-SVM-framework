@@ -69,13 +69,13 @@ neg_samples = 1000
 ## Some results
 _Detections before NMS_             |  _Detections after NMS_
 :-------------------------:|:-------------------------:
-![](images/1.png) |  ![](.github/2.png)
-![](.github/3.png) |  ![](.github/4.png)
-![](.github/5.png) |  ![](.github/6.png)
-![](.github/7.png) |  ![](.github/8.png)
-![](.github/9.png) |  ![](.github/10.png)
-![](.github/11.png) |  ![](.github/12.png)
-![](.github/13.png) |  ![](.github/14.png)
+![](images/1.png) |  ![](images/2.png)
+![](images/3.png) |  ![](images/4.png)
+![](images/5.png) |  ![](images/6.png)
+![](images/7.png) |  ![](images/8.png)
+![](images/9.png) |  ![](images/10.png)
+![](images/11.png) |  ![](images/12.png)
+![](images/13.png) |  ![](images/14.png)
 
 
 ## Built With
