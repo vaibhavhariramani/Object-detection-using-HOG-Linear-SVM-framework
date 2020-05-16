@@ -102,6 +102,23 @@ Possible ways to improve the project:
     - [Sliding Windows for Object Detection with Python and OpenCV](https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)
     - [Pedestrian Detection OpenCV](https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/)
     - [HOG detectMultiScale parameters explained](https://www.pyimagesearch.com/2015/11/16/hog-detectmultiscale-parameters-explained/)
+# Resources 
+
+To learn more about these Resources you can Refer to some of these articles written by Me:-
+
+https://sites.google.com/view/geeky-traveller/computer-vision/histogram-of-oriented-gradients-and-object-detection
+
+### Made with ❤️by Vaibhav Hariramani
+#### About me
+
+I am an Actions on Google, Internet of things, Alexa Skills, and Image processing developer.
+I have a keen interest in Image processing and Andriod development.
+I am Currently studying at  Chandigarh University, Punjab.
+
+You can find me at:-
+[Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariaramani) .
+
+Happy coding ❤️ .
 
 
 ## License
